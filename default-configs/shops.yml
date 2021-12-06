@@ -1,6 +1,7 @@
 shops:
     buiding:
         id: shop_building
+        file: shops/building.yml
         slot-id: 0
         material: GRASS
         item:
