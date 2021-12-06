@@ -1,0 +1,13 @@
+shops:
+    buiding:
+        id: shop_building
+        slot-id: 0
+        material: GRASS
+        item:
+            name: "&cBuilding"
+            damage: 0
+            enchantments: []
+            hide-enchantments: true
+            lore:
+                - "&7Blocks based around building,"
+                - "&7Specifically naturally generated blocks."
